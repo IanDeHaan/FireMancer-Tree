@@ -1,6 +1,4 @@
-# FireMancer-Tree
-fire mancer tree
-FIREMANCER TREE:
+
 
 Rank1:Lil' Inferno
 
@@ -12,7 +10,6 @@ Reqs
 
 *10 Smelting
 
- 1000Fe 
 
 Perks: 
 *Stone Axe Named 'Lil' Infernos Torch': Unbreaking 3 Sharpness 1
@@ -33,7 +30,7 @@ Reqs
 
 *20 Smelting
 
-1500Fe
+
 
 Perks
 
@@ -53,14 +50,14 @@ Reqs
 
 *50 Smelting
 
-2000fe
+
 
 
 Perks
 
 *A Golden Hoe Named 'FireStaff' Sharpness 4 Fire Aspect 2 Knockback 2 (bind spells here to make it a real staff )
 
-*Lightning (Cause thats how firebenders do) and Volly Spells
+*Lightning (Cause thats how firebenders do) 
 
 --
 
@@ -76,7 +73,7 @@ Reqs
 
 *Shrine to Ra [The sun god] Must have fire and a window showing the sun.
 
-2500Fe 
+
 
 Perks
 
@@ -98,7 +95,7 @@ Reqs
 
 *Shrine to Ra must be added with a sacrificing hole and a donations chest
 
-*3000Fe
+
 
 Perks
 
